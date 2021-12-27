@@ -45,7 +45,7 @@ Osintgram offers an interactive shell to perform analysis on Instagram account o
 
 You can find detailed commands usage [here](doc/COMMANDS.md).
 
-[**Latest version**](https://github.com/Datalux/Osintgram/releases/tag/1.3) |
+[**Latest version**](https://github.com/NextKool/Osintgram/releases/tag/1.3) |
 [Commands](doc/COMMANDS.md) |
 [CHANGELOG](doc/CHANGELOG.md)
 
@@ -58,7 +58,7 @@ You can find detailed commands usage [here](doc/COMMANDS.md).
 
 1. Fork/Clone/Download this repo
 
-    `git clone https://github.com/Datalux/Osintgram.git`
+    `git clone https://github.com/NextKool/Osintgram.git`
 
 2. Navigate to the directory
 
