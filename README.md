@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/osintgram)
 [![Docker](https://img.shields.io/badge/Docker-Supported-blue)](https://img.shields.io/badge/Docker-Supported-blue)
 
-Osintgram is a **OSINT** tool on Instagram to collect, analyze, and run reconnaissance.
+Osintgram is a **OSINT** tool on Instagram to collect, analyze, and run reconnaissance.  
 
 <p align="center">
 <img align="center" src=".img/carbon.png" width="900">
@@ -57,7 +57,7 @@ You can find detailed commands usage [here](doc/COMMANDS.md).
 ## Installation ⚙️
 
 1. Fork/Clone/Download this repo
-
+ 
     `git clone https://github.com/NextKool/Osintgram.git`
 
 2. Navigate to the directory
@@ -178,5 +178,7 @@ Here is a list of Osintgram's contributors:
 </a>
 
 ## External library 🔗
-
+ 
 [Instagram API](https://github.com/ping/instagram_private_api)
+
+New updates coming soon, which will add new social networks.
